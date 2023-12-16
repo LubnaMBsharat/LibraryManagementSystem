@@ -11,7 +11,7 @@ Departments are uniquely numbered for easy organization.
 #### Book Management:
 Each book is categorized by a unique number, name, author, publication year, and publishing house.
 
-#### Personnel Information:
+#### Personal Information:
 Employees and students are tracked with essential details like name, SSN, gender, address, and birth date.
 
 #### Employee Management:
@@ -27,4 +27,6 @@ Rooms are identified by a unique number and area. Professors can reserve rooms, 
 Various programs are available, each with a unique number, name, start date, end date, and price. Individuals, including professors, can enroll.
 
 ##### You can access the video documentation for the system below:
+
+[![Video Title](https://github.com/LubnaMBsharat/LibraryManagementSystem/assets/108155549/7d446867-d14f-4b7e-a3df-8dd49c16a8aa)](https://drive.google.com/file/d/1lqP6CuoY2TRSafJLDC7JapJC6df7Pzgi/view?usp=drivesdk)
 
