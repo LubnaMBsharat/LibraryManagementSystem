@@ -28,5 +28,5 @@ Various programs are available, each with a unique number, name, start date, end
 
 ##### You can access the video documentation for the system below:
 
-[![Video Title](https://github.com/LubnaMBsharat/LibraryManagementSystem/assets/108155549/7d446867-d14f-4b7e-a3df-8dd49c16a8aa)](https://drive.google.com/file/d/1lqP6CuoY2TRSafJLDC7JapJC6df7Pzgi/view?usp=drivesdk)
+[![Library Management System](https://github.com/LubnaMBsharat/LibraryManagementSystem/assets/108155549/7d446867-d14f-4b7e-a3df-8dd49c16a8aa)](https://drive.google.com/file/d/1lqP6CuoY2TRSafJLDC7JapJC6df7Pzgi/view?usp=drivesdk)
 
